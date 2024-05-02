@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 SOBRE MI:
 Estudiante de Tecnologías de la Información, próximo a titularme como Ingeniero en Desarrollo y Gestión de Software. Apasionado por el desarrollo web, el diseño y la creación de videojuegos. Me considero una persona honesta, dedicada y capaz de adaptarme fácilmente al entorno. Con sólidos conocimientos en HTML, CSS, JavaScript, bases de datos SQL y NoSQL, así como en frameworks como Laravel y ASP.NET.
 
 
-## 🌐 Socials:
+## 🌐 REDES SOCIALES:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ing_nacht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ignacio-a-hernandez-4131b8277) 
 
 # 💻 Tech Stack:
