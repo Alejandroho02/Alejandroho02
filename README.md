@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="../img/Profile background.png"  />
+  <img src="img/Profile_background.png" height="200" alt="Profile Background" />
 </div>
 
 # 💫 SOBRE MI:
