@@ -23,6 +23,8 @@ Estudiante de Tecnologías de la Información, próximo a titularme como Ingenie
 
 ###
 
+![Profile Background](img/profile_background.png)
+
 <div align="center">
   <a href="https://open.spotify.com/user/7cr03gfcds073wqoz2c80gzn5">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=7cr03gfcds073wqoz2c80gzn5&count=1&unique=false" alt="Spotify recently played"  />
