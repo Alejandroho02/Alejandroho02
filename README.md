@@ -21,7 +21,6 @@ Estudiante de Tecnologías de la Información, próximo a titularme como Ingenie
 
 ###
 
-![Profile Background](https://raw.githubusercontent.com/Alejandroho02/Alejandroho02/main/img/profile_background.png)
 
 <div align="center">
   <a href="https://open.spotify.com/user/7cr03gfcds073wqoz2c80gzn5">
