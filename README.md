@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="../img/Profile background.png"  />
+</div>
+
 # 💫 SOBRE MI:
 Estudiante de Tecnologías de la Información, próximo a titularme como Ingeniero en Desarrollo y Gestión de Software. Apasionado por el desarrollo web, el diseño y la creación de videojuegos. Me considero una persona honesta, dedicada y capaz de adaptarme fácilmente al entorno. Con sólidos conocimientos en HTML, CSS, JavaScript, bases de datos SQL y NoSQL, así como en frameworks como Laravel y ASP.NET.
 
@@ -15,4 +19,13 @@ Estudiante de Tecnologías de la Información, próximo a titularme como Ingenie
 ---
 [![](https://visitcount.itsvg.in/api?id=Alejandroho02&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/7cr03gfcds073wqoz2c80gzn5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7cr03gfcds073wqoz2c80gzn5&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
